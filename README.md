@@ -9,7 +9,7 @@
 ## Обучение
 Код обучение представлен в [notebook'е](https://github.com/vizhulin/season_classification/blob/main/classification.ipynb)
 
-## Предсказание
+## Предсказания
 Протестировать предсказания модели на собственных данных можно либо в [notebook'е](https://github.com/vizhulin/season_classification/blob/main/classification.ipynb), открыв его в [colab](https://colab.research.google.com/drive/1lbFGpK5NuACl49sfhTEzlBVEbUIsM_cV#scrollTo=uBg3Q1ARHJea), либо с помощью [скрипта](https://github.com/vizhulin/season_classification/blob/main/season_classifier.py) следующим образом:
 
 ```
